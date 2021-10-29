@@ -29,3 +29,9 @@ body{
     font-size: larger;
     margin: 1px 10px;
 }
+
+.h2{
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    margin: 10px 10px;
+}
